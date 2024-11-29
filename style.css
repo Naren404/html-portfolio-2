@@ -242,3 +242,24 @@ body {
 .card-text h4, p {
   margin: 0;
 }
+
+/* About me section */
+.about-me-section{
+  background-color: wheat;
+  margin: 16px -40px;
+  padding: 12px;
+}
+
+.bio-container {
+  width: 60%;
+}
+
+.bio-container p {
+  font-size: small;
+  padding: 0px;
+}
+
+.about-me-container img {
+  width: 100px;
+  height: 150px;
+}
