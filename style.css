@@ -280,3 +280,30 @@ body {
 .mail-container i {
   color: var(--primary-color);
 }
+
+/* Footer */
+footer {
+  background-color: var(--text-color);
+}
+
+.footer-container {
+  color: white;
+  align-items: start;
+  margin-top: 12px;
+  gap: 2rem;
+}
+
+.footer-container ul {
+  padding: 0;
+  list-style: none;
+}
+
+.footer-container li a {
+  color: white;
+  text-decoration: none;
+  font-size: small;
+}
+
+.copy-right-text {
+  color: white
+}
