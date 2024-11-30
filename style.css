@@ -263,3 +263,20 @@ body {
   width: 100px;
   height: 150px;
 }
+
+/* Get In Touch Section */
+.get-in-touch-container {
+  justify-content: space-evenly;
+}
+
+.mail-container {
+  text-align: center;
+}
+
+.mail-container button {
+  padding: 16px;
+}
+
+.mail-container i {
+  color: var(--primary-color);
+}
